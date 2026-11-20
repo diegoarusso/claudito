@@ -1,0 +1,9 @@
+{
+  "name": "monitor-chats",
+  "version": "0.2.0",
+  "description": "Anota el estado de cada chat (trabajando, esperando tu OK, terminada) para la ventanita de Claudito en la esquina de la pantalla.",
+  "license": "MIT",
+  "author": {
+    "name": "Claudito"
+  }
+}

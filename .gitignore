@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+estado/
+app/config.json
+app/vistos.json
+app/fijados.json
+app/mostrar.flag
+app/sonidos/

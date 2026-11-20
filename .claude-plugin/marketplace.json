@@ -1,0 +1,14 @@
+{
+  "name": "claudito",
+  "owner": {
+    "name": "Claudito"
+  },
+  "description": "Claudito: a small Windows window that shows which Claude Code, Codex and Opencode chats are working, waiting for you or done.",
+  "plugins": [
+    {
+      "name": "monitor-chats",
+      "source": "./",
+      "description": "Records each chat's state (working, waiting for you, done) for the Claudito window."
+    }
+  ]
+}

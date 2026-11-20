@@ -1,0 +1,7 @@
+{
+  "orden": 8,
+  "nombre": "Monitor de chats (Claudito)",
+  "uso": "Automático · Claudito en la esquina inferior derecha (pasá el mouse para ver la lista)",
+  "hace": "Anota en qué está cada chat (trabajando, esperando tu OK, terminado) y Claudito lo muestra con contador, sonido y lista; un clic abre el chat en la app. App: app\\claudito.pyw",
+  "reemplaza": "Buscar en la lista de chats cuál terminó o cuál te está esperando"
+}
